@@ -6,6 +6,7 @@ Robotics Dynamics and Control
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/a728a46b-29e6-4dc8-9c97-cb3f86b128db" />
 
 <img width="2319" height="547" alt="image" src="https://github.com/user-attachments/assets/4bfab5ff-1036-45a3-a0c3-865db622294c" />
+<img width="640" height="960" alt="image" src="https://github.com/user-attachments/assets/5cca5c52-6d35-4df7-9f35-a1065c5ec650" />
 
 ![back-up-terry-put-it-in-reverse-terry](https://github.com/user-attachments/assets/721d664f-96f6-4265-9e96-349de3adfe7e)
 <img width="220" height="293" alt="image" src="https://github.com/user-attachments/assets/d31caea1-62cc-4c6b-9cf0-77fa87f96d55" />
